@@ -1,12 +1,13 @@
 
 import './App.css'
+import Home from './Components/Home/Home'
 
 function App() {
  
 
   return (
     <>
-      <h1 className='bg-amber-300 container'>Support tailwindcss</h1>
+      <Home />
     </>
   )
 }
