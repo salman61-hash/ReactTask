@@ -1,5 +1,6 @@
 import React from 'react'
 import ShowHidePass from '../ShowHide/ShowHidePass'
+import MenuResponsive from '../MenuResponsive/MenuResponsive'
 
 const Home = () => {
   return (
@@ -7,6 +8,7 @@ const Home = () => {
 
 
         <ShowHidePass />
+        <MenuResponsive />
     </div>
   )
 }
